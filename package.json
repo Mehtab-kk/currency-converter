@@ -1,0 +1,21 @@
+{
+  "name": "converter-to-mta2",
+  "version": "1.2.3",
+  "description": "this is a smart converter currency app",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mehtab",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
